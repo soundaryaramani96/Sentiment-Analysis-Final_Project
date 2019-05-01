@@ -17,3 +17,9 @@ Hypothesis:
 1. Amazon music's low cost structure packaged with amazon prime membership would make it a popular app gaining higher public attention as compared to Pandora and Spotify. 
 2. Pandora's free version gains more attention in the market within a certain age range although its advertisements can act as interruptions. 
 3. Spotify's immense music playlist collection and diverse genres  with a very low subscription rate has gained competitive edge in the music industry.  
+
+Results:
+After running the code, we found that Pandora offers great and diverse music choices. This rejects our hypothesis as Pandora's immense music playlist collection and diverse genres with a very low subscription rate has gained competitive edge in the music industry.
+Based on the cost factor, Amazon music and Pandora being free makes them popular gaining high attention in the market.
+Pandora's free version gains more attention, but after analysing it on Advertisement scale, it offers a lot of interruptions which also proves our hypothesis true.
+
