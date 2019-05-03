@@ -20,8 +20,10 @@ In this growing age of technology and music where there is cut throat competitio
 Our aim through this project is to see what user preferences are through an analysis of their reviews and see which app garners the maximum levels of satisfaction. 
 
 RESEARCH DESIGN AND METHODS
+
 Website Scrapping: 
-Performed Web Scrapping on User reviews from the Google play store using selenium package in order to automate web browser interaction from Python. Used ChromeDriver to launch and perform tasks on Google play store.  
+Performed Web Scrapping on User reviews from the Google play store using selenium package in order to automate web browser interaction from Python. Used Beautiful soup to extract HTML and XML files. Used ChromeDriver to launch and perform tasks on Google play store.  
+
 Sentimental Analysis using VADER:
 Valence Aware Dictionary and Sentiment Reasoner is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media. It uses a combination of  sentiment lexicon which is a list of lexical features (e.g., words) which are generally labelled according to their semantic orientation as either positive, negative or neutral. 
 
