@@ -10,7 +10,7 @@ Yashi Gupta (NetID: yashig2@illinois.edu, Git: yashig2)
 
 Project Classification: Type II
 Introduction:
-This project aims to compare Music Applications such as Pandora, Spotify and Amazon music by using scrapped data (user reviews) from Google Playstore.
+This project aims to compare Music Applications such as Pandora, Spotify and Amazon music by using scraped data (user reviews) from Google Playstore.
 Application of sentiment analysis technique using Python on user reviews. Comparison of Music applications on the basis of four essential factors such as Cost, Collection, Stability of Application and Advertisement. 
 Additionally, portraying a sentiment score on user in order to give the user a perception of their review on the Internet before they upload the review. 
 
